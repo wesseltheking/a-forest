@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{62759CF8-BB12-C4E4-CB7B-1145813D78F3}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1c085590-7bf0-49bc-97f2-92136063822c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/begun.cs">
+    <Files>
+      <File FileName="Assets/scripts/grab_casing.cs" Line="212" Column="29" />
+      <File FileName="Assets/scripts/useDrugs.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/SC_FPSController.cs" Line="9" Column="42" />
+      <File FileName="Assets/scripts/spawn_item.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/fashionbar.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/begun.cs" Line="27" Column="48" />
+      <File FileName="Assets/scripts/light.cs" Line="23" Column="20" />
+      <File FileName="Assets/scripts/spawners/cocespawn.cs" Line="26" Column="1" />
+      <File FileName="Assets/scripts/spawners/pillspawn.cs" Line="5" Column="18" />
+      <File FileName="Assets/scripts/spawners/injectspawn.cs" Line="5" Column="20" />
+      <File FileName="Assets/scripts/spawners/boxSpawn.cs" Line="5" Column="18" />
+      <File FileName="Assets/scripts/openDoor.cs" Line="23" Column="1" />
+      <File FileName="Assets/scripts/footstep.cs" Line="16" Column="10" />
+      <File FileName="Assets/scripts/idleState.cs" Line="24" Column="1" />
+      <File FileName="Assets/scripts/patrolState.cs" Line="12" Column="26" />
+      <File FileName="Assets/scripts/chaseState.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/attackState.cs" Line="20" Column="89" />
+      <File FileName="Assets/scripts/fadeToBlack.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="inventory" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="begun.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
